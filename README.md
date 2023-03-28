@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn as much as i can in development area
 - 🌱 I’m currently learning sofware programming and web design
 - 💞️ I’m looking to collaborate on gaming section 
-- 📫 How to reach me sarokascarvalho@hotmail.com or Satiniiz#7811 on discord
+- 📫 How to reach me sarokascarvalho@hotmail.com or Sattineez#7811 on discord
 
 <!---
 SaraSSC/SaraSSC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
