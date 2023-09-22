@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaraSSC
-- 👀 I’m interested in learning as much as I can in the software development area
-- 🌱 I’m currently learning software programming (Python and C++) and cybersecurity 
-- 💞️ I’m looking to collaborate on LLM, RAT, or become a trainee in some company/enterprise 
+- 👀 I’m interested in learning as much as I can in the software development area and Cybersecurity
+- 🌱 I’m currently learning software programming (Python and C++) and Cybersecurity (Pentester and Threat Intelligence)
+- 💞️ I’m looking to collaborate on LLM, RAT, SASS or become a trainee in some company/enterprise 
 - 📫 How to reach me @Sattineez on Telegram or Sattineez#7811 on discord
 
 - Open to work: https://www.linkedin.com/in/sara-carvalho-299bb2186/
