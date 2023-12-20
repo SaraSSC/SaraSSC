@@ -29,12 +29,10 @@
 <img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
 <br>
 <br>
-[![Github stats](https://github-readme-stats.vercel.app/api?username=SaraSSC&theme=radical&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraSSC&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<br>
+<br>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=SaraSSC&theme=radical&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
