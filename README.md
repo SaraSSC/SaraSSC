@@ -4,7 +4,7 @@
 <ul align="left" justify-content="center">
   <li>👋 Hi, I’m @SaraSSC </li>
   <li> 👀 I’m interested in learning as much as I can in the software development area and Cybersecurity </li>
-  <li>🌱 I’m currently learning software programming (Python and C++) and Cybersecurity (Pentester and Threat Intelligence) </li>
+  <li>🌱 I’m currently learning software programming (Python and C#) and Cybersecurity (Pentester and Threat Intelligence) </li>
   <li>💞️ I’m looking to collaborate on LLM, RAT, SASS or become a trainee in some company/enterprise </li>
   <li>📫 How to reach me @Sattineez on Telegram or Sattineez#7811 on discord</li>
 </ul>
