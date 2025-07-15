@@ -5,7 +5,6 @@
   <li>👋 Hi, I’m @SaraSSC </li>
   <li> 👀 I’m interested in learning as much as I can in the software development area and Cybersecurity </li>
   <li>🌱 I’m currently learning software programming (Python and C#) and Cybersecurity (Pentester and Threat Intelligence) </li>
-  <li>💞️ I’m looking to collaborate on LLM, RAT, SASS or become a trainee in some company/enterprise </li>
   <li>📫 How to reach me @Sattineez on Telegram or Sattineez#7811 on discord</li>
 </ul>
 
@@ -30,6 +29,7 @@
 <img src="https://img.shields.io/badge/-Android-black?style=flat&logo=android"> <img src="https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb"> <br />
 <img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat"> <img src="https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4"> <br />
 <img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
+
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraSSC&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
