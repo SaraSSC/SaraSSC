@@ -43,11 +43,11 @@
 ---
 
 <h3 align="center">My Github Stats</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarassc" alt="sarassc" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarassc&theme=radical" alt="sarassc" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarassc&show_icons=true&locale=en&layout=compact" alt="sarassc" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarassc&show_icons=true&locale=en&layout=compact&theme=radical" alt="sarassc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarassc&show_icons=true&locale=en" alt="sarassc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarassc&show_icons=true&locale=en&theme=radical" alt="sarassc" /></p>
 
 <!---
 SaraSSC/SaraSSC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
