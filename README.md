@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **AI/Computer Vision**
+- 🔭 I’m currently working in **Game Development and QA**
 
-- 🌱 I’m currently learning **React and Cybersecurity**
+- 🌱 I’m currently learning **Blender**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaraSSC](https://github.com/SaraSSC)
 
